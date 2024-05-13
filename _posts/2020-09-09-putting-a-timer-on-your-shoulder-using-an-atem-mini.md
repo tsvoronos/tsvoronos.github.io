@@ -24,7 +24,7 @@ The secret is creating a video or presentation of a countdown timer with some ki
 
 Once I've created the timers, I just plug in my camera into one source of my ATEM Mini, and my iPad into a second source, and overlay them in the following way:
 
-<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/_Vqfjv8m3Mo?si=QqemYYEugdEgPC52” title=“YouTube video player” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share” referrerpolicy=“strict-origin-when-cross-origin” allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Vqfjv8m3Mo?si=QqemYYEugdEgPC52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Pretty spiffy, and quite useful!
 
