@@ -20,10 +20,11 @@ author: Teddy Svoronos
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Blog: "blog"
+  Tags: "tags"
   Publications: "publications"
   Teachly: "teachly"
+
 
 ################
 # --- Logo --- #
