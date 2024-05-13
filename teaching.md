@@ -4,7 +4,7 @@ author: 'Teddy Svoronos'
 layout: page
 ---
 
-These are materials that I've produced for various residential and online courses. <a href="downloads/Teaching_Philosophy.pdf">Click here</a> for a brief summary of the teaching philosophy underlying their creation.
+These are materials that I've produced for various residential and online courses. <a href="/downloads/Teaching_Philosophy.pdf">Click here</a> for a brief summary of the teaching philosophy underlying their creation.
 <h2>Online Modules</h2>
 Here are three interactive modules I produced, in collaboration with Dan Levy and Mae Klinger, for the <a href="https://epod.cid.harvard.edu/project/training-policymakers-use-evidence">Building Capacity to use Research Evidence (BCURE)</a> project. These modules were piloted with Phase IV Indian Administrative Service officers as part of their required training course held at the Lal Bahadur Shastri National Academy of Administration.
 <h2>Instructional Videos</h2>
