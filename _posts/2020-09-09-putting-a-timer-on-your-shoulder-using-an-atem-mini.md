@@ -12,7 +12,7 @@ tags:
     - zoom
 ---
 
-![](assets/img/2020-09-atem.png)
+![](/assets/img/2020-09-atem.png)
 
 **Update:** Since writing this post Luke Stein pointed me to an app called [H2R Graphics](https://heretorecord.com/graphics/), which lets you overlay a timer on your computer if you have a setup like an ATEM Mini. It's a little funny to set up - you plug your computer into the ATEM, and then back from the ATEM to the computer - but the result is a pretty flexible timer that's quite useful!
 
@@ -24,7 +24,7 @@ The secret is creating a video or presentation of a countdown timer with some ki
 
 Once I've created the timers, I just plug in my camera into one source of my ATEM Mini, and my iPad into a second source, and overlay them in the following way:
 
-https://www.youtube.com/watch?v=_Vqfjv8m3Mo 
+<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/_Vqfjv8m3Mo?si=QqemYYEugdEgPC52” title=“YouTube video player” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share” referrerpolicy=“strict-origin-when-cross-origin” allowfullscreen></iframe>
 
 Pretty spiffy, and quite useful!
 
