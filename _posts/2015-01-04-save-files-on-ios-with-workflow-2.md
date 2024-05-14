@@ -31,7 +31,7 @@ Here's a collection of screenshots that show the 1Read workflow (1), the Dropbox
 
 ![](/assets/img/2015-01-workflow2.png)
 
-Workflow (1) has zero additional steps; it saves it to the 1Read folder and that's it. Workflow (2) has the additional step of selecting a Dropbox folder in which to save the file. Workflow (3) involves first choosing a document provider, then choosing a folder[1].
+Workflow (1) has zero additional steps; it saves it to the 1Read folder and that's it. Workflow (2) has the additional step of selecting a Dropbox folder in which to save the file. Workflow (3) involves first choosing a document provider, then choosing a folder[^1].
 
 ## The crazy part
 
@@ -52,6 +52,4 @@ Some notes:
 
 If you check out the [@WorkflowHQ](https://twitter.com/WorkflowHQ) twitter page or the [Workflow Gallery](http://www.workflowgallery.co/), you'll find lots and lots of other Workflows. But this is one that's easy to set up, easy to use, and fills a real need in my work habits.
 
-* * *
-
-  1. You may notice that Dropbox is a document provider that shows up in Workflow (3). Since I use it so much, and since the native document picker will sometimes crash, I made a separate Dropbox-only action.  ©
+[^1]: You may notice that Dropbox is a document provider that shows up in Workflow (3). Since I use it so much, and since the native document picker will sometimes crash, I made a separate Dropbox-only action.  ©

@@ -25,7 +25,7 @@ This is totally unacceptable, and I hope Apple understands what a massive detter
 
 The opposite end of the usability vs. flexibility spectrum, there's [LaTeX](http://latex-project.org/). LaTeX combines the longevity of [plain text](http://txtglory.com/) with a robust [bibliography management system](https://www.economics.utoronto.ca/osborne/latex/BIBTEX.HTM), not to mention the fact that LaTeX was conceived for the purpose of printing mathematical formulas. But, as the above links may suggest, LaTeX tools won't be winning any awards for UI design.
 
-Enter [multimarkdown](http://fletcherpenney.net/). Developed by Fletcher Penny, MMD allows me to use one of the [hundreds](http://brettterpstra.com/ios-text-editors/) of markdown[1] text editors for iOS using a syntax that can be exported as LaTeX. This export process does take some time to set up (see [here](http://fletcherpenney.net/multimarkdown/use/) for details), but once it's read I simply have to prepend this metadata to the beginning of a file to make it export-ready:
+Enter [multimarkdown](http://fletcherpenney.net/). Developed by Fletcher Penny, MMD allows me to use one of the [hundreds](http://brettterpstra.com/ios-text-editors/) of markdown[^1] text editors for iOS using a syntax that can be exported as LaTeX. This export process does take some time to set up (see [here](http://fletcherpenney.net/multimarkdown/use/) for details), but once it's read I simply have to prepend this metadata to the beginning of a file to make it export-ready:
     
     
     Title: Title of my document
@@ -44,9 +44,7 @@ The only potential rub in this setup is if my advisors want to use Word track ch
     
 Boy, I'd better get writing. 
     
-* * *
-    
-1. For background on markdown, see [Gruber's original specification](http://daringfireball.net/projects/markdown/). For an introduction to the syntax for non-coders and why you should use it, I recommend [David Spark's excellent iBook](http://macsparky.com/markdown/).  ©
+[^1]: For background on markdown, see [Gruber's original specification](http://daringfireball.net/projects/markdown/). For an introduction to the syntax for non-coders and why you should use it, I recommend [David Spark's excellent iBook](http://macsparky.com/markdown/).  ©
     
     
     

@@ -13,7 +13,7 @@ Much has been said about Apple’s updates to Keynote, Pages, and Numbers last y
 
 ## The Setup
 
-The basic setup is to use your iPad as a remote that you carry around, which controls your iPhone that’s connected to the room projector[1]. Here are my steps for setting up a wireless Keynote presentation: 
+The basic setup is to use your iPad as a remote that you carry around, which controls your iPhone that’s connected to the room projector[^1]. Here are my steps for setting up a wireless Keynote presentation: 
 
   1. Connect my iPhone to the projector using the adapter
   2. Pair the Keynote apps so that my iPad serves as a remote for my iPhone
@@ -62,6 +62,6 @@ Enjoy, and please get in touch if you have ideas or suggestions.
 
 * * *
 
-  1. In this post, I’m using the iPad as the remote and connecting the iPhone to the projector; this is because I prefer to use the iPad for annotations and reading notes. Feel free to switch the two if you prefer to have the iPhone in hand.  ↩
+[^1]: In this post, I’m using the iPad as the remote and connecting the iPhone to the projector; this is because I prefer to use the iPad for annotations and reading notes. Feel free to switch the two if you prefer to have the iPhone in hand.
 
  
