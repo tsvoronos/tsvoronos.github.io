@@ -29,17 +29,13 @@ Solution (a) should be familiar to you if you’ve made it this far in my post, 
 
 Solution (b) is new to me, even though I’ve used Evernote off and on for many years. I’ve only recently started working with Evernote in a way that clicks for me, but I now rely heavily on Evernote’s solid handwriting recognition, which they do automatically once a note is on their servers. These improvements are reliable enough that I can choose to write on my iPad with a stylus and export to Evernote, or handwrite in a notebook and capture it with the Evernote app’s <a href="http://www.christopher-mayo.com/?p=876">document camera</a>. Here’s an example of some notes I took on my iPad (left) and on paper (right):
 
-<figure><img src="http://teddysvoronos.com/wp-content/uploads/2014/08/2014-05-25-230055.png" alt="Evernote handwriting recognition" />
-<figcaption>Evernote handwriting recognition</figcaption></figure>As you can see, both notes recognize the word “treat” despite some pretty terrible handwriting.
+![](/assets/img/2014-05-evernote-handwriting-recognition.png)
+
+As you can see, both notes recognize the word “treat” despite some pretty terrible handwriting.
 
 I’m still working out the kinks of what to keep as a PDF in Dropbox and what to ‘scan’ into Evernote (FYI, Evernote saves these scans as image files). The short answer is that I keep notes that I want to reference in Evernote, and notes that I want to keep working on (including journal articles that I want to highlight) in Dropbox. It’s still a work in progress, but I’m trying my very best not to stress about it. Both are highly searchable, organizable repositories, and Mavericks tags have added the tagging functionality of Evernote to Dropbox.
 
 I’m sure I’ll expound on this in a later post, but hopefully somebody will find this useful.
-<div class="footnotes">
+* * *
 
-<hr />
-
-<ol>
-	<li id="fn:1">If you’re interested, I used <a href="http://www.fluidtouch.biz/noteshelf/">Noteshelf</a> with a Wacom Bamboo stylus and now use <a href="http://www.goodnotesapp.com/">GoodNotes</a> with an Adonit Jot Script. But I digress. <a class="reversefootnote" title="return to article" href="#fnref:1"> ↩</a></li>
-</ol>
-</div>
+  1. If you’re interested, I used [Noteshelf](http://www.fluidtouch.biz/noteshelf/) with a Wacom Bamboo stylus and now use [GoodNotes](http://www.goodnotesapp.com/) with an Adonit Jot Script. But I digress.  ↩

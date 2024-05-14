@@ -1,11 +1,7 @@
 ---
-id: 157
 title: 'Wireless Presenting Just Got a Lot Easier'
-date: '2014-04-03T02:40:34-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=157'
-permalink: /2014/04/03/wireless-presenting-just-got-a-lot-easier/
 categories:
     - Productivity
 tags:
