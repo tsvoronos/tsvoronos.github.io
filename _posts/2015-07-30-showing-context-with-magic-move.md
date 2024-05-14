@@ -31,7 +31,11 @@ I'm sure there's some great literature on why this is more compelling, but all I
 
 I made a toy example that builds a diagram using three methods: a simple dissolve transition, an animation, and an animation with an additional delay that I find appealing. Here they in sequence:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDj-aZlDEhw?si=LxxAr3cPDcJey5uT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 And here they are next to one another (I timed it so that the actual length of transitions is the same for all three):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDj-aZlDEhw?si=LxxAr3cPDcJey5uT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Here's a link to the Keynote file](/downloads/Magic-Move-Sample.key.zip), if you'd like to play with it further.
 
