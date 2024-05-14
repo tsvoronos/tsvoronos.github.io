@@ -19,6 +19,7 @@ The basic setup is to use your iPad as a remote that you carry around, which con
   2. Pair the Keynote apps so that my iPad serves as a remote for my iPhone
   3. Press Play on my iPad
   4. Don’t be nervous and do a really good presentation
+
 I’ll walk you through steps 1–3; you’re on your own for step 4. 
 
 ## Hardware: Connect your iPhone
