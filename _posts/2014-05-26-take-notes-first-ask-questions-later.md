@@ -1,11 +1,7 @@
 ---
-id: 180
 title: 'Increasingly Irrelevant Distinctions'
-date: '2014-05-26T03:23:03-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=180'
-permalink: /2014/05/26/take-notes-first-ask-questions-later/
 categories:
     - Productivity
 tags:
