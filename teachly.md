@@ -12,11 +12,7 @@ layout: page
 <p>Teachly is a web app designed to help faculty make their teaching more effective and more inclusive. Here's a short video describing the application and how faculty are using it to better understand their classroom dynamics:</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=H4-M0HGXiLQ","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=H4-M0HGXiLQ
-</div></figure>
-<!-- /wp:core-embed/youtube -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4-M0HGXiLQ?si=ZJDbQ128zmUxdsWe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- wp:paragraph -->
 <p>If you're interested in learning more or trying Teachly out for yourself, check out our website at <a href="https://www.teachly.me">teachly.me</a>.</p>
