@@ -9,6 +9,7 @@ permalink: /2021/01/16/free-options-for-sharing-handwritten-student-work/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - tfh
     - zoom
 ---

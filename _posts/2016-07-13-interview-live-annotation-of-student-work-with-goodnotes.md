@@ -9,6 +9,7 @@ permalink: /2016/07/13/interview-live-annotation-of-student-work-with-goodnotes/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - 'apple tv'
     - ios
     - presentations

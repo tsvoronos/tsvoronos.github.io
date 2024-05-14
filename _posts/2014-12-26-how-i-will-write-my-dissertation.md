@@ -6,6 +6,8 @@ categories:
     - Productivity
     - Research
 tags:
+    - Productivity
+    - Research
     - latex
     - markdown
 ---
@@ -19,7 +21,7 @@ For simpler papers, I really do like [Pages](https://www.apple.com/mac/pages/). 
 
 Then there are the problems. In addition to the inability of Pages to satisfy my need for numbered equations, Apple is developing a bit of a reputation for poor backward-compatibility. I am terrified by the prospect of trying to open my dissertation in a few years and getting an alert like this (source: [Google+](https://plus.google.com/u/0/+StefanUrbanek/posts/LKkGeEoPUzA)):
 
-![](http://teddysvoronos.com/wp-content/uploads/2014/12/wpid-TooOld.png)
+![](/assets/img/2014-12-keynote.png){: .mx-auto.d-block :}
 
 This is totally unacceptable, and I hope Apple understands what a massive detterent this is.
 
@@ -44,11 +46,7 @@ The only potential rub in this setup is if my advisors want to use Word track ch
     
 Boy, I'd better get writing. 
     
-[^1]: For background on markdown, see [Gruber's original specification](http://daringfireball.net/projects/markdown/). For an introduction to the syntax for non-coders and why you should use it, I recommend [David Spark's excellent iBook](http://macsparky.com/markdown/).  ©
-    
-    
-    
-    
+[^1]: For background on markdown, see [Gruber's original specification](http://daringfireball.net/projects/markdown/). For an introduction to the syntax for non-coders and why you should use it, I recommend [David Spark's excellent iBook](http://macsparky.com/markdown/).   
     
     
     

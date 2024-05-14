@@ -9,6 +9,7 @@ permalink: /2021/01/14/teaching-remotely-with-slack/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - slack
     - tfh
 ---

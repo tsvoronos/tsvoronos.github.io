@@ -10,6 +10,8 @@ categories:
     - Pedagogy
     - Productivity
 tags:
+    - Pedagogy
+    - Productivity
     - podcasts
 ---
 

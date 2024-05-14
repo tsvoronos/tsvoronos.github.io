@@ -6,6 +6,8 @@ categories:
     - Pedagogy
     - Productivity
 tags:
+    - Pedagogy
+    - Productivity
     - Keynote
     - presentations
 ---

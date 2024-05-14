@@ -11,6 +11,7 @@ enclosure:
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - 'atem mini'
     - mmhmm
     - obs

@@ -5,6 +5,7 @@ layout: post
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - 'atem mini'
     - ipad
     - 'online teaching'

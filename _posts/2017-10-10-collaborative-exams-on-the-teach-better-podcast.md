@@ -9,6 +9,7 @@ permalink: /2017/10/10/collaborative-exams-on-the-teach-better-podcast/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - podcasts
     - 'two-stage exams'
 ---

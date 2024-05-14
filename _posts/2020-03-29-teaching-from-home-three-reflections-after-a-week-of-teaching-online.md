@@ -9,6 +9,7 @@ permalink: /2020/03/29/teaching-from-home-three-reflections-after-a-week-of-teac
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - 'online teaching'
     - tfh
     - zoom

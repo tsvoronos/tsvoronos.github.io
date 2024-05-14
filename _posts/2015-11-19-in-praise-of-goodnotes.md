@@ -5,6 +5,7 @@ layout: post
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - handwriting
     - ipad
 ---
@@ -64,7 +65,9 @@ GoodNotes supports every Bluetooth stylus that I’ve ever encountered - and I�
 
 ## Let Me Count The Ways
 
-In short, GoodNotes has defined my experience as a graduate student and teacher attempting to leverage technology. I’ve been grateful to have it for my entire career as a graduate student, but its progress over the years has been remarkable, and I wish I had it in its current form back when I was starting. Just go get it, ok? **App Link: [GoodNotes](https://itunes.apple.com/us/app/goodnotes-4-notes-pdf/id778658393?mt=8&uo=4&at=1010lcfa)**
+In short, GoodNotes has defined my experience as a graduate student and teacher attempting to leverage technology. I’ve been grateful to have it for my entire career as a graduate student, but its progress over the years has been remarkable, and I wish I had it in its current form back when I was starting. Just go get it, ok? 
+
+**App Link: [GoodNotes](https://itunes.apple.com/us/app/goodnotes-4-notes-pdf/id778658393?mt=8&uo=4&at=1010lcfa)**
 
 * * *
 

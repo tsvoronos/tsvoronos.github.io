@@ -9,6 +9,7 @@ permalink: /2020/08/13/playing-a-collaborative-playlist-on-zoom/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - 'online teaching'
     - zoom
 ---

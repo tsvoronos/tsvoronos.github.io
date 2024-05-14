@@ -5,6 +5,7 @@ layout: post
 categories:
     - Productivity
 tags:
+    - Productivity
     - icloud
     - ios
     - Workflow
@@ -51,5 +52,7 @@ Some notes:
   * Workflow (3) is one that I've come to rely on quite a bit. Besides the third party providers, iCloud Drive is actually a nice save location, since if you don't have an internet connection at the time of saving, it'll save it locally and upload it once you get a connection.
 
 If you check out the [@WorkflowHQ](https://twitter.com/WorkflowHQ) twitter page or the [Workflow Gallery](http://www.workflowgallery.co/), you'll find lots and lots of other Workflows. But this is one that's easy to set up, easy to use, and fills a real need in my work habits.
+
 ---
-[^1]: You may notice that Dropbox is a document provider that shows up in Workflow (3). Since I use it so much, and since the native document picker will sometimes crash, I made a separate Dropbox-only action.  ©
+
+[^1]: You may notice that Dropbox is a document provider that shows up in Workflow (3). Since I use it so much, and since the native document picker will sometimes crash, I made a separate Dropbox-only action.  

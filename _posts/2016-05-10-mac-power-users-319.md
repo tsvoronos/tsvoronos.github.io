@@ -11,6 +11,9 @@ categories:
     - Productivity
     - Research
 tags:
+    - Pedagogy
+    - Productivity
+    - Research
     - apps
     - handwriting
     - icloud

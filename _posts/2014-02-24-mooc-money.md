@@ -6,6 +6,8 @@ categories:
     - Commentary
     - Pedagogy
 tags:
+    - Commentary
+    - Pedagogy
     - edtech
     - moocs
 ---

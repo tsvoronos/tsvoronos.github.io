@@ -9,6 +9,7 @@ permalink: /2020/09/13/recommended-student-settings-for-zoom/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - 'online teaching'
     - zoom
 ---

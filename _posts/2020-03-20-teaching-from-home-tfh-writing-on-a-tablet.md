@@ -9,6 +9,7 @@ permalink: /2020/03/20/teaching-from-home-tfh-writing-on-a-tablet/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - apps
     - handwriting
     - ios

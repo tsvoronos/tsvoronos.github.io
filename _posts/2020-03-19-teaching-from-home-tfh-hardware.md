@@ -9,6 +9,7 @@ permalink: /2020/03/19/teaching-from-home-tfh-hardware/
 categories:
     - Pedagogy
 tags:
+    - Pedagogy
     - apps
     - edtech
     - handwriting
