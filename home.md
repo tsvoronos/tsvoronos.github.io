@@ -1,7 +1,7 @@
 ---
 title: Home
 author: 'Teddy Svoronos'
-layout: page
+layout: home
 ---
 
 # Welcome!
