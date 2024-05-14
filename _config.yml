@@ -21,7 +21,7 @@ author:   Teddy Svoronos
 
 navbar-links:
   Blog: "blog"
-  Tags:
+  Categories:
     - Pedagogy: "tags/#Pedagogy"
     - Productivity: "tags/#Productivity"
     - Research: "tags/#Research"
