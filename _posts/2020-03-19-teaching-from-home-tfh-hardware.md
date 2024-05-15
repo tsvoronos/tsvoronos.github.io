@@ -16,6 +16,7 @@ tags:
     - presentations
     - tfh
     - zoom
+thumbnail-img: /assets/img/2020-03-me-teaching-online.jpeg  
 ---
 
 First, to whoever is reading this: I hope this finds you safe, healthy, and (relatively) happy. While this is _very_ far from the first thing on folks’ minds, I’ve received a lot of feedback on my [online teaching setup](https://twitter.com/tedsvo/status/1238083013705162755?s=21) and [online teaching strategy](https://twitter.com/epodharvard/status/1238502829981040641?s=21), and thought I should share my ongoing process of adapting to an online environment. I’m lucky to have some experience teaching online as one of the faculty leads for the Kennedy School’s [Public Leadership Credential](https://onlinelearning.hks.harvard.edu/public-leadership-credential/). In addition, I’m a big advocate of blended learning both in [my residential courses](https://canvas.harvard.edu/courses/34568) and in my work [training policymakers abroad](https://epod.cid.harvard.edu/project/training-policymakers-use-evidence). Much of this work is a combination of synchronous and asynchronous content. **For now, I’ll be focusing these posts on delivering content synchronously using Zoom.** This first post will be about my tech setup when teaching online, and tips to ensure that it goes smoothly. Subsequent posts will be about pedagogical choices, but I thought it better to break them up rather than publishing an online novel. 
