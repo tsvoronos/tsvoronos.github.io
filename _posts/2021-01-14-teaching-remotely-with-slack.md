@@ -14,14 +14,9 @@ tags:
     - tfh
 ---
 
-<!-- wp:jetpack/markdown {"source":"As I prepare for my Spring semester, one of my biggest wins from the Fall was my use of Slack as a clearinghouse for discussions, announcements, and questions related to my course. I made this short video summarizing how I used it. \n\n*Would love to hear other suggestions for what has worked for you in your teaching!*"} -->
-<div class="wp-block-jetpack-markdown"><p>As I prepare for my Spring semester, one of my biggest wins from the Fall was my use of Slack as a clearinghouse for discussions, announcements, and questions related to my course. I made this short video summarizing how I used it.</p>
-<p><em>Would love to hear other suggestions for what has worked for you in your teaching!</em></p>
-</div>
-<!-- /wp:jetpack/markdown -->
+As I prepare for my Spring semester, one of my biggest wins from the Fall was my use of Slack as a clearinghouse for discussions, announcements, and questions related to my course. I made this short video summarizing how I used it.
 
-<!-- wp:embed {"url":"https://youtu.be/InspYbfEAjw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/InspYbfEAjw
-</div></figure>
-<!-- /wp:embed -->
+_Would love to hear other suggestions for what has worked for you in your teaching!_
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/InspYbfEAjw?si=njzTBbj9dzDw2yu_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
