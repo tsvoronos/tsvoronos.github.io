@@ -11,10 +11,8 @@ tags:
     - 'online teaching'
     - 'virtual cameras'
     - zoom
+cover-img: /assets/img/2020-09-atem.png
 ---
-
-![](/assets/img/2020-09-atem.png)
-
 **Update:** Since writing this post Luke Stein pointed me to an app called [H2R Graphics](https://heretorecord.com/graphics/), which lets you overlay a timer on your computer if you have a setup like an ATEM Mini. It's a little funny to set up - you plug your computer into the ATEM, and then back from the ATEM to the computer - but the result is a pretty flexible timer that's quite useful!
 
 * * *

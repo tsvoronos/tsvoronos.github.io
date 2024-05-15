@@ -4,10 +4,6 @@ title: 'The Promise and Peril of Virtual Cameras on Zoom'
 date: '2020-09-07T11:58:12-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=1037'
-permalink: /2020/09/07/the-promise-and-peril-of-virtual-cameras-on-zoom/
-enclosure:
-    - "https://teddysvoronos.com/wp-content/uploads/2020/09/Content-from-Second-Camera.mov\n24047365\nvideo/quicktime\n"
 categories:
     - Pedagogy
 tags:
@@ -25,14 +21,8 @@ tags:
 <p>This post is the product of several months of experimenting, learning, conversing, and purchasing. It came from a desire to move away from <a href="https://twitter.com/tedsvo/status/1286299229116301314?s=21">traditional screen sharing</a>, which is often characterized by <strong>your slides/visuals taking over a huge portion of your students' screens</strong> (which can be offset somewhat with <a href="https://support.zoom.us/hc/en-us/articles/115004802843-Side-by-side-Mode-for-screen-sharing">side-by-side mode</a>).</p>
 <p>One way of getting around this is to use what are called &quot;<strong>virtual cameras</strong>&quot; - in essence, using software or hardware to create a more sophisticated overlay of video/images/feeds, which then get treated by Zoom as a regular webcam. Using software tools like <a href="https://obsproject.com">OBS</a> or <a href="https://www.mmhmm.app">mmhmm</a>, or hardware tools like the <a href="https://www.blackmagicdesign.com/products/atemmini">ATEM Mini</a>, you can get some really fun and engaging visuals. Here are a few examples, starting with an excellent introduction by the always insightful and creative <a href="https://twitter.com/lukestein/status/1297306413358866433">Luke Stein</a>:</p>
 </div>
-<!-- /wp:jetpack/markdown -->
 
-<!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:core-embed/twitter {"url":"https://twitter.com/lukestein/status/1297306413358866433","type":"rich","providerNameSlug":"twitter","className":""} -->
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-https://twitter.com/lukestein/status/1297306413358866433
-</div></figure>
-<!-- /wp:core-embed/twitter -->
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- wp:core-embed/twitter {"url":"https://twitter.com/emilynix100/status/1297261177060302849?s=21","type":"rich","providerNameSlug":"twitter","className":""} -->
 <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
