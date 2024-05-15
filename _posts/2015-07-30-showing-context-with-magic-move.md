@@ -11,7 +11,7 @@ tags:
     - Keynote
     - presentations
 ---
-I use Keynote for all of my presentations. It's a hassle to have to run them off of my own devices instead of using a venue's PC (though it's [getting easier](http://teddysvoronos.com/2014/04/03/wireless-presenting-just-got-a-lot-easier/)), but it's worth it for one reason: making animations is incredibly easy in Keynote.
+I use Keynote for all of my presentations. It's a hassle to have to run them off of my own devices instead of using a venue's PC (though it's [getting easier](http://teddysvoronos.com/2014-04-03-wireless-presenting-just-got-a-lot-easier/)), but it's worth it for one reason: making animations is incredibly easy in Keynote.
 
 ## Fitting In
 

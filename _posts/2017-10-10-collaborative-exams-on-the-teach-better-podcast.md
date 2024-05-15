@@ -4,8 +4,6 @@ title: 'Collaborative Exams on the Teach Better Podcast'
 date: '2017-10-10T22:27:14-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'https://teddysvoronos.com/?p=688'
-permalink: /2017/10/10/collaborative-exams-on-the-teach-better-podcast/
 categories:
     - Pedagogy
 tags:

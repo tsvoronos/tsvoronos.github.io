@@ -1,11 +1,7 @@
 ---
-id: 1100
 title: 'Teaching Remotely with Slack'
-date: '2021-01-14T18:39:50-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=1100'
-permalink: /2021/01/14/teaching-remotely-with-slack/
 categories:
     - Pedagogy
 tags:

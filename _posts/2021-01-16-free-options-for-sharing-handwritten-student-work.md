@@ -1,11 +1,7 @@
 ---
-id: 1103
 title: 'Free Options for Sharing Handwritten Student Work'
-date: '2021-01-16T13:35:30-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=1103'
-permalink: /2021/01/16/free-options-for-sharing-handwritten-student-work/
 categories:
     - Pedagogy
 tags:

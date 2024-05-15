@@ -1,11 +1,8 @@
 ---
 id: 1244
 title: 'Feature @ the Center for International Development'
-date: '2024-02-27T14:59:09-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'https://teddysvoronos.com/?p=1244'
-permalink: /2024/02/27/feature-the-center-for-international-development/
 categories:
     - Misc
 tags:

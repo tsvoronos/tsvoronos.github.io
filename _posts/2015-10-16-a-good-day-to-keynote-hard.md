@@ -1,11 +1,7 @@
 ---
-id: 329
 title: 'A Good Day to Keynote Hard'
-date: '2015-10-16T18:32:59-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=329'
-permalink: /2015/10/16/a-good-day-to-keynote-hard-2/
 categories:
     - Pedagogy
     - Productivity

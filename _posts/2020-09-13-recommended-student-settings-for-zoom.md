@@ -1,11 +1,7 @@
 ---
-id: 1060
 title: 'Recommended Student Settings for Zoom'
-date: '2020-09-13T12:38:16-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=1060'
-permalink: /2020/09/13/recommended-student-settings-for-zoom/
 categories:
     - Pedagogy
 tags:

@@ -1,7 +1,5 @@
 ---
-id: 1037
 title: 'The Promise and Peril of Virtual Cameras on Zoom'
-date: '2020-09-07T11:58:12-05:00'
 author: 'Teddy Svoronos'
 layout: post
 categories:
