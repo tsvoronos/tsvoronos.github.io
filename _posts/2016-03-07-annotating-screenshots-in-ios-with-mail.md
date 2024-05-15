@@ -1,11 +1,7 @@
 ---
-id: 461
 title: 'Annotating Screenshots in iOS with Mail'
-date: '2016-03-07T14:00:48-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=461'
-permalink: /2016/03/07/annotating-screenshots-in-ios-with-mail/
 categories:
     - Productivity
 tags:

@@ -4,8 +4,6 @@ title: 'Teaching From Home (TFH): Writing on a Tablet'
 date: '2020-03-20T18:19:50-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'https://teddysvoronos.com/?p=970'
-permalink: /2020/03/20/teaching-from-home-tfh-writing-on-a-tablet/
 categories:
     - Pedagogy
 tags:

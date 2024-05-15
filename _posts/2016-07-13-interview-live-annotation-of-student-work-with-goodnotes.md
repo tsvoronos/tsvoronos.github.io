@@ -1,11 +1,7 @@
 ---
-id: 556
 title: 'Interview: Live Annotation of Student Work with GoodNotes'
-date: '2016-07-13T07:00:55-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=556'
-permalink: /2016/07/13/interview-live-annotation-of-student-work-with-goodnotes/
 categories:
     - Pedagogy
 tags:

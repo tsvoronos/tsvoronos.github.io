@@ -1,11 +1,7 @@
 ---
-id: 510
 title: 'Mac Power Users #319'
-date: '2016-05-10T08:20:29-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'http://teddysvoronos.com/?p=510'
-permalink: /2016/05/10/mac-power-users-319/
 categories:
     - Pedagogy
     - Productivity

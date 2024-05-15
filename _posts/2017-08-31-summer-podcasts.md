@@ -1,11 +1,7 @@
 ---
-id: 675
 title: 'Summer Podcasts'
-date: '2017-08-31T11:04:48-05:00'
 author: 'Teddy Svoronos'
 layout: post
-guid: 'https://teddysvoronos.com/?p=675'
-permalink: /2017/08/31/summer-podcasts/
 categories:
     - Pedagogy
     - Productivity
