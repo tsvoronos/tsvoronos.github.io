@@ -26,6 +26,7 @@ navbar-links:
     - Productivity: "tags/#Productivity"
     - Research: "tags/#Research"
     - All tags: "tags"
+  Teaching: "teaching"
   Publications: "publications"
   Teachly: "teachly"
 
