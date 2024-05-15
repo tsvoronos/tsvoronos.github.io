@@ -8,8 +8,10 @@ tags:
     - Pedagogy
     - 'online teaching'
     - zoom
-cover-img: /assets/img/2020-08-music-slide.png
+thumbnail-img: /assets/img/2020-08-music-slide.png
 ---
+![](/assets/img/2020-08-music-slide.png)
+
 As I prepare for my course this Fall, I’m constantly worrying about how to create community. Reflecting on my teaching this past Spring and what worked, I found a low-hanging fruit in the form of **playing music in the 10–15 minutes before class as people roll into Zoom**. Something about this really seemed to help students get more comfortable and willing to unmute and share how they’re doing. I took this one step further in the Spring by creating **a playlist that students could themselves contribute to**. It’s fun to see students recognize a song playing that they themselves added, and explain why they chose that particular song. So, without further ado, here’s how to play music over Zoom, and how to create a collaborative playlist for students to add to. 
 
 # Playing music over Zoom
