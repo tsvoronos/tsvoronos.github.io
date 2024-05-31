@@ -31,7 +31,7 @@ As you all know, we will be using Zoom for all of our class sessions for the rem
 <ul>
  	<li><em>You must have installed Zoom and logged in to enter the session.</em></li>
 </ul>
-<figure><img src="http://teddysvoronos.com/wp-content/uploads/2020/03/zoom_tab.png" alt="" /></figure>
+![](/assets/img/2020-03-zoom_tab.png)
 </li>
  	<li><strong>Please use your computer to access Zoom</strong> - I will be broadcasting two screens as I do in class, so it’s important that you have a large enough screen to be able to see the content.</li>
  	<li>Once you are in session, make sure that <strong>your video is on</strong> and that <strong>your audio is working but is muted</strong>.
@@ -54,7 +54,7 @@ Use the “<strong>Nonverbal Feedback</strong>” buttons to express yourself du
 </ul>
 <h1 id="after-a-session">After a Session</h1>
 After some processing time (this take up to an hour or two), you can access a recording of the session by going to the Zoom tab on our Canvas page and clicking “Cloud Recordings”
-<figure><img src="http://teddysvoronos.com/wp-content/uploads/2020/03/cloud_recordings.png" alt="" /></figure>
+![](/assets/img/2020-03-cloud_recordings.png)
 <h1 id="questions">Questions?</h1>
 Please don’t hesitate to contact me (<a href="mailto:theodore_svoronos@hks.harvard.edu">theodore_svoronos@hks.harvard.edu</a>) with any questions!
 
