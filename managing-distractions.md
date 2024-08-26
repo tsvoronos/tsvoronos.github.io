@@ -2,6 +2,7 @@
 title: 'Managing Distractions'
 author: 'Teddy Svoronos'
 layout: page
+permalink: /courses/managing-distractions
 ---
 
 I have found it very easy to take advantage of the vast opportunities afforded by the internet and networked devices; I have found it much more difficult to manage their downsides. Despite knowing that [humans are terrible multitaskers](http://www.npr.org/2013/05/10/182861382/the-myth-of-multitasking), it is all too easy for me to get distracted by notifications (even work-related ones) when I'm trying to concentrate. Here are a few apps and tricks that I've come across in my efforts to manage the flood of information that has come to characterize our day-to-day lives.
