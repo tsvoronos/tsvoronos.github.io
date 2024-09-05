@@ -69,5 +69,5 @@ If you are interested in automating your workflow even further, you can set up G
  	<li>Tap on Email under Export Plugins;</li>
  	<li>Type in your e-mail address and press Done.</li>
 </ol>
-![](/assets/img/2017-08-Image-8-23-17-8-21-AM-1.jpeg]
+![](/assets/img/2017-08-Image-8-23-17-8-21-AM-1.jpeg)
 <em>Note: If you are looking for an alternative, I recommend <a href="https://scanbot.io/en/index.html">Scanbot</a>.</em>
