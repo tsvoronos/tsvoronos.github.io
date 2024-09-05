@@ -2,7 +2,7 @@
 title: 'How to Save to PDF'
 author: 'Teddy Svoronos'
 layout: page
-permalink: /courses/managing-distractions/how-to-save-to-pdf/
+permalink: /courses/how-to-save-to-pdf/
 ---
 
 All assignment submissions must be as PDFs, a non-editable format that ensures that we see your work as you intended it to be seen. Exporting a Word document to PDF is a simple process on both Macs and PCs.
