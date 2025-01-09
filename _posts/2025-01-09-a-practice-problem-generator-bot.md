@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Participate in a tutorbot study, and learn about a Practice Problem Generator'
+title: 'Tutor Bot study, Practice Problem Generator'
 subtitle: 
 author: 'Teddy Svoronos'
 cover-img: 
