@@ -20,7 +20,7 @@ author:   Teddy Svoronos
 ###############################################
 
 navbar-links:
-  Home: "home"
+#  Home: "home"
   Blog: "blog"
   Categories:
     - Pedagogy: "tags/#Pedagogy"
@@ -29,7 +29,7 @@ navbar-links:
     - All tags: "tags"
   Teaching: "teaching"
   Publications: "publications"
-  Teachly: "teachly"
+  # Teachly: "teachly"
 
 ################
 # --- Logo --- #
