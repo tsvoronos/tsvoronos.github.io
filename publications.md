@@ -13,7 +13,7 @@ layout: page
 # SELECTED PUBLICATIONS 
 
 
-Isley, C., Gilbert, J., Kassos, E., Kocher, M., Nie, A., Brunskill, E., Domingue, B., Hofman, J., Legewie, J., **Svoronos, T.**, Tuminelli, C., & Goel, S. (2025, August 9). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study (arXiv:2508.08314). _arXiv_. https://arxiv.org/abs/2508.0831
+Isley, C., Gilbert, J., Kassos, E., Kocher, M., Nie, A., Brunskill, E., Domingue, B., Hofman, J., Legewie, J., **Svoronos, T.**, Tuminelli, C., & Goel, S. (2025, August 9). Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study (arXiv:2508.08314). _arXiv_. <https://arxiv.org/abs/2508.0831/>
 
   
 
@@ -127,23 +127,19 @@ Levy D, **Svoronos T**. “Implementation Workshop: Harvard-developed Tools to E
 **Kennedy School Review Podcast** Equity in Pedagogy at HKS. Available at: <https://ksr.hkspublications.org/2019/07/22/equity-in-pedagogy-at-hks>/. 22 July 2019.
 
 
-**EdSurge **“Who You Gonna Call? A Harvard Lecturer’s Quest for Equitable Class Participation.” Available at: <https://www.edsurge.com/news/2019-06-07-who-you-gonna-call-a-harvard-lecturer-s-quest-for-equitable-class-participation>. 7 June 2019.
+**EdSurge** “Who You Gonna Call? A Harvard Lecturer’s Quest for Equitable Class Participation.” Available at: <https://www.edsurge.com/news/2019-06-07-who-you-gonna-call-a-harvard-lecturer-s-quest-for-equitable-class-participation>. 7 June 2019.
 
 
 **The Chronicle of Higher Education** “Want to Study Your Classroom Dynamics? There’s an App for That.” Available at: <https://www.chronicle.com/article/Want-to-Study-Your-Classroom/247582>. 21 November 2019.
 
   
-
-
-**Office of the Vice Provost for Advances in Learning **“Into Practice: Using digital resources to augment course materials.” Available at: <https://vpal.harvard.edu/digitalresources>.. 27 November 2017.
+**Office of the Vice Provost for Advances in Learning** “Into Practice: Using digital resources to augment course materials.” Available at: <https://vpal.harvard.edu/digitalresources>.. 27 November 2017.
 
 
 **The Teach Better Podcast** Two-Stage Exams and Student Collaboration. Available at: <http://teachbetter.co/blog/2017/10/09/tbp-episode-64/>.** **9 October 2017.
 
 
 **Teaching in Higher Ed Podcast** How to Effectively Use Presentation Tools in Our Teaching. Available at: <http://teachinginhighered.com/podcast/effectively-use-presentation-tools-teaching/>. 31 August 2017.
-
-  
 
 
 **Mac Power Users Podcast** #319: #383: More Education Workflows with Teddy Svoronos. Available at: <https://www.relay.fm/mpu/383>. 25 June 2017.
